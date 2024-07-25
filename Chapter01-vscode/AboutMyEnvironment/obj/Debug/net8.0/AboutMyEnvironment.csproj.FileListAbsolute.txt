@@ -1,0 +1,14 @@
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.exe
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.deps.json
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.runtimeconfig.json
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.dll
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.pdb
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfo.cs
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.dll
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\refint\AboutMyEnvironment.dll
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.pdb
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.genruntimeconfig.cache
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\ref\AboutMyEnvironment.dll

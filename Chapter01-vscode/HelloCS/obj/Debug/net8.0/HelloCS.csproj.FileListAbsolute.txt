@@ -1,0 +1,14 @@
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.exe
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.dll
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.dll
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+F:\That\COLLEGE\HK241\DACN\cs12dotnet8\Chapter01-vscode\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
